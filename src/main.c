@@ -138,7 +138,7 @@ int main() {
                     }
                 }
                 fclose(text);
-                text = fopen("The Wonderful Journey.temp", "w+");
+                text = fopen("input.temp", "w+");
                 rewind(replacedText);
                 while(fgets(line, LINE_SIZE, replacedText)) {
                     fprintf(text, line);
