@@ -1,9 +1,7 @@
-Femto is a rudimentary text viewing program capable of searching
-and word replacement.
+# Femto
 
-Femto is not based on nano ;)
+Femto is a rudimentary text viewing program with a resizable console.
 
-Note: to read a file, copy it to the same directory as the program
-then rename it to "input". Sorry for the inconvenience.
+Femto allows searching for words and approximate search, you can also search and replace.
 
-Author: Adel Khial
+To view a file rename it to "input.txt" and place it in the .exe directory.
