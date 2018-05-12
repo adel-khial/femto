@@ -1,6 +1,6 @@
 /*
  * Index construction and search functions and structures.
- * index.c implementation of index.c
+ * index.c implementation of index.h
  * Author: Adel Khial
  */
 
